@@ -29,3 +29,4 @@ steps:
     failOnIssues: true
     projectName: 'azure-test-app'
     organization: 'duncan.mcintyresnyk.io-LwXSEjD8obnPyoyU5FyZSV'
+
