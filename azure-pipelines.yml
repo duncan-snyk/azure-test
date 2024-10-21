@@ -28,4 +28,4 @@ steps:
     monitorWhen: 'always'
     failOnIssues: true
     projectName: 'azure-test-app'
-    organization: 'duncan.mcintyre@snyk.io'
+    organization: 'duncan.mcintyresnyk.io-LwXSEjD8obnPyoyU5FyZSV'
